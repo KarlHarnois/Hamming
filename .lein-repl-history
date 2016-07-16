@@ -1,0 +1,6 @@
+(exit)
+(distance "GGGA" "AAAG"
+)
+(distance "GAGS" "SAGA")
+(doc distance)
+(exit)
